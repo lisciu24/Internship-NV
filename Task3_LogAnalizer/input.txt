@@ -1,0 +1,5 @@
+[2023-10-25T10:00:00] [INFO] [AuthService] User logged in successfully
+[2023-10-25T10:05:12] [ERROR] [Database] Connection timeout
+[2023-10-25T10:15:30] [WARN] [AuthService] Multiple failed login attempts
+[2023-10-25T10:20:00] [ERROR] [Payment] Transaction rejected: insufficient funds
+[2023-10-25T10:25:00] [INFO] [Payment] Transaction 12345 processed
